@@ -10,6 +10,8 @@ public class FormModel
         
     }
 
+    public int id { get; set; }
+
     [Required]
     public string FirstName { get; set; }
 

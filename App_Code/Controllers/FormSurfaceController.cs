@@ -13,13 +13,15 @@ public class FormSurfaceController : SurfaceController
     [HttpPost]
     public ActionResult SaveForm(FormModel model)
     {    
-   
+ 
         if (!ModelState.IsValid)
         {
   
             return CurrentUmbracoPage();
         }
-        Console.Write(model.FirstName);
+
+       ApplicationContext.DatabaseContext.Database.Save(new Movie());
+        ViewBag.Result = "User Info Saved";
         
         return RedirectToCurrentUmbracoPage();
 
