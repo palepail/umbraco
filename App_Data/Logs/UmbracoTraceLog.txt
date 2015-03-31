@@ -2888,3 +2888,8 @@ System.FormatException: @0 : Derek - Input string was not in a correct format.
 2015-03-30 15:04:02,204 [57] INFO  Umbraco.Core.Persistence.Database - [Thread 60] Primary Key sql -1:
  ALTER TABLE [Forms] ADD CONSTRAINT [PK_Forms] PRIMARY KEY ([ID])
 2015-03-30 15:04:02,205 [57] INFO  Umbraco.Core.Persistence.Database - [Thread 60] New table 'Forms' was created
+2015-03-30 15:34:12,905 [57] INFO  Umbraco.Web.Security.WebSecurity - [Thread 122] User Id: 0 logged in
+2015-03-30 15:34:13,014 [57] INFO  Umbraco.Core.PluginManager - [Thread 45] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-03-30 15:34:13,014 [57] INFO  Umbraco.Core.PluginManager - [Thread 45] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2015-03-30 15:34:13,115 [57] INFO  Umbraco.Core.PluginManager - [Thread 80] Starting resolution types of umbraco.interfaces.ITree
+2015-03-30 15:34:13,129 [57] INFO  Umbraco.Core.PluginManager - [Thread 80] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 14ms)
