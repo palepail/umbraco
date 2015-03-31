@@ -12,10 +12,6 @@ using Umbraco.Core.Persistence;
 
 public class FormSurfaceController : SurfaceController
 {
-
-    //in Java the DAO would be injected, I'm not sure how MVC handles that.
-    FormDAO formDAO = new FormDAO();
-
     [HttpPost]
     public ActionResult SaveForm(FormModel model)
     {    
@@ -25,13 +21,30 @@ public class FormSurfaceController : SurfaceController
             return CurrentUmbracoPage();
             }
 
-        //this would pass though a manager first if there were any calculated values or any logic
-        formDAO.persistData(model);
+
+        persistData(model);
        
         return RedirectToCurrentUmbracoPage();
 
     }
 
-   
+    //DAO would be in a seperate file normally
+    private void persistData(FormModel model){
+        var db = ApplicationContext.DatabaseContext.Database;
+        if (!db.TableExist("Forms"))
+            {
+                db.CreateTable<FormPoco>(false);
+            }
 
+     
+     
+        FormPoco poco = new FormPoco(); 
+      
+
+        poco.email = model.Email;
+        poco.firstName = model.FirstName;
+        poco.lastName = model.LastName;
+
+        db.Insert(poco);
+    }
 }
