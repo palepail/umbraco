@@ -2893,3 +2893,5 @@ System.FormatException: @0 : Derek - Input string was not in a correct format.
 2015-03-30 15:34:13,014 [57] INFO  Umbraco.Core.PluginManager - [Thread 45] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
 2015-03-30 15:34:13,115 [57] INFO  Umbraco.Core.PluginManager - [Thread 80] Starting resolution types of umbraco.interfaces.ITree
 2015-03-30 15:34:13,129 [57] INFO  Umbraco.Core.PluginManager - [Thread 80] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 14ms)
+2015-03-30 15:56:30,701 [57] INFO  umbraco.BusinessLogic.Log - [Thread 102] Log scrubbed.  Removed all items older than 2015-01-29 15:56:30
+2015-03-30 15:56:30,703 [57] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 102] Application shutdown. Reason: HostingEnvironment
