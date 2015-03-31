@@ -2417,3 +2417,474 @@ System.Web.HttpCompileException (0x80004005): c:\Users\palepail\Documents\My Web
 2015-03-30 13:59:45,416 [5] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 43 (took 18ms)
 2015-03-30 14:07:40,236 [5] INFO  umbraco.BusinessLogic.Log - [Thread 35] Log scrubbed.  Removed all items older than 2015-01-29 14:07:40
 2015-03-30 14:07:40,236 [5] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 35] Application shutdown. Reason: HostingEnvironment
+2015-03-30 14:33:57,646 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Determining hash of code files on disk
+2015-03-30 14:33:57,655 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Hash determined (took 5ms)
+2015-03-30 14:33:57,666 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-03-30 14:33:57,892 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 35 (took 225ms)
+2015-03-30 14:33:57,951 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-03-30 14:33:57,959 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 7ms)
+2015-03-30 14:33:57,959 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-03-30 14:33:57,968 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 8ms)
+2015-03-30 14:33:57,981 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-03-30 14:33:57,989 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 5 (took 8ms)
+2015-03-30 14:33:57,989 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-03-30 14:33:58,000 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 30 (took 10ms)
+2015-03-30 14:33:58,030 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-03-30 14:33:58,036 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 6ms)
+2015-03-30 14:33:58,037 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-03-30 14:33:58,046 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 8ms)
+2015-03-30 14:33:58,548 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-03-30 14:33:58,556 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 8ms)
+2015-03-30 14:33:58,564 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Starting resolution types of umbraco.interfaces.ITree
+2015-03-30 14:33:58,574 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 10ms)
+2015-03-30 14:33:58,583 [116] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 114] Initializing Examine and binding to business logic events
+2015-03-30 14:33:58,731 [116] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 114] Adding examine event handlers for index providers: 3
+2015-03-30 14:33:58,735 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Starting resolution types of umbraco.interfaces.IApplication
+2015-03-30 14:33:58,746 [116] INFO  Umbraco.Core.PluginManager - [Thread 114] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 11ms)
+2015-03-30 14:33:58,997 [116] INFO  Umbraco.Web.UmbracoModule - [Thread 108] Setting OriginalRequestUrl: localhost:60166/umbraco
+2015-03-30 14:33:59,038 [116] INFO  umbraco.content - [Thread 108] Loading content from disk cache...
+2015-03-30 14:33:59,119 [116] INFO  Umbraco.Core.PluginManager - [Thread 108] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-03-30 14:33:59,129 [116] INFO  Umbraco.Core.PluginManager - [Thread 108] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 22 (took 9ms)
+2015-03-30 14:33:59,344 [116] INFO  Umbraco.Core.PluginManager - [Thread 108] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-03-30 14:33:59,360 [116] INFO  Umbraco.Core.PluginManager - [Thread 108] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 43 (took 15ms)
+2015-03-30 14:34:30,275 [116] INFO  Umbraco.Core.Persistence.UmbracoDatabase - [Thread 113]    at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery()
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Insert(String tableName, String primaryKeyName, Boolean autoIncrement, Object poco)
+2015-03-30 14:34:30,277 [116] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 113] An unhandled exception occurred
+System.Data.SqlServerCe.SqlCeException (0x80004005): The specified table does not exist. [ FormModel ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery()
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Insert(String tableName, String primaryKeyName, Boolean autoIncrement, Object poco)
+   at Umbraco.Core.Persistence.Database.Insert(Object poco)
+   at FormSurfaceController.SaveForm(FormModel model) in c:\Users\palepail\Documents\My Web Sites\UmbracoContact\App_Code\Controllers\FormSurfaceController.cs:line 24
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2015-03-30 14:38:02,819 [116] INFO  umbraco.BusinessLogic.Log - [Thread 113] Log scrubbed.  Removed all items older than 2015-01-29 14:38:02
+2015-03-30 14:38:02,827 [116] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 113] Application shutdown. Reason: CodeDirChangeOrDirectoryRename
+2015-03-30 14:38:06,458 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Determining hash of code files on disk
+2015-03-30 14:38:06,471 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Hash determined (took 8ms)
+2015-03-30 14:38:06,484 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-03-30 14:38:06,769 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 35 (took 284ms)
+2015-03-30 14:38:06,838 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-03-30 14:38:06,847 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 9ms)
+2015-03-30 14:38:06,848 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-03-30 14:38:06,858 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 10ms)
+2015-03-30 14:38:06,871 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-03-30 14:38:06,882 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 5 (took 10ms)
+2015-03-30 14:38:06,882 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-03-30 14:38:06,891 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 30 (took 9ms)
+2015-03-30 14:38:06,922 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-03-30 14:38:06,931 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 8ms)
+2015-03-30 14:38:06,932 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-03-30 14:38:06,940 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 8ms)
+2015-03-30 14:38:07,463 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Starting resolution types of umbraco.interfaces.IApplication
+2015-03-30 14:38:07,477 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 13ms)
+2015-03-30 14:38:07,510 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-03-30 14:38:07,520 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 9ms)
+2015-03-30 14:38:07,526 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Starting resolution types of umbraco.interfaces.ITree
+2015-03-30 14:38:07,537 [116] INFO  Umbraco.Core.PluginManager - [Thread 125] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 11ms)
+2015-03-30 14:38:07,546 [116] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 125] Initializing Examine and binding to business logic events
+2015-03-30 14:38:07,704 [116] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 125] Adding examine event handlers for index providers: 3
+2015-03-30 14:38:07,937 [116] INFO  Umbraco.Web.UmbracoModule - [Thread 119] Setting OriginalRequestUrl: localhost:60166/umbraco
+2015-03-30 14:38:07,981 [116] INFO  umbraco.content - [Thread 119] Loading content from disk cache...
+2015-03-30 14:38:08,063 [116] INFO  Umbraco.Core.PluginManager - [Thread 119] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-03-30 14:38:08,073 [116] INFO  Umbraco.Core.PluginManager - [Thread 119] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 22 (took 10ms)
+2015-03-30 14:38:08,296 [116] INFO  Umbraco.Core.PluginManager - [Thread 119] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-03-30 14:38:08,314 [116] INFO  Umbraco.Core.PluginManager - [Thread 119] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 43 (took 17ms)
+2015-03-30 14:39:19,357 [116] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Create Table sql -1:
+ CREATE TABLE [Forms] ([ID] INTEGER NOT NULL IDENTITY(1,1),
+[FIRST_NAME] INTEGER NOT NULL,
+[LAST_NAME] INTEGER NOT NULL,
+[EMAIL] INTEGER NOT NULL)
+2015-03-30 14:39:19,358 [116] INFO  Umbraco.Core.Persistence.Database - [Thread 17] Primary Key sql -1:
+ ALTER TABLE [Forms] ADD CONSTRAINT [PK_Forms] PRIMARY KEY ([ID])
+2015-03-30 14:39:19,362 [116] INFO  Umbraco.Core.Persistence.Database - [Thread 17] New table 'Forms' was created
+2015-03-30 14:39:19,366 [116] INFO  Umbraco.Core.Persistence.UmbracoDatabase - [Thread 17]    at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery()
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Insert(String tableName, String primaryKeyName, Boolean autoIncrement, Object poco)
+2015-03-30 14:39:19,367 [116] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 17] An unhandled exception occurred
+System.Data.SqlServerCe.SqlCeException (0x80004005): The specified table does not exist. [ FormModel ]
+   at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery()
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Insert(String tableName, String primaryKeyName, Boolean autoIncrement, Object poco)
+   at Umbraco.Core.Persistence.Database.Insert(Object poco)
+   at FormSurfaceController.SaveForm(FormModel model) in c:\Users\palepail\Documents\My Web Sites\UmbracoContact\App_Code\Controllers\FormSurfaceController.cs:line 31
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2015-03-30 14:50:26,031 [116] INFO  umbraco.BusinessLogic.Log - [Thread 93] Log scrubbed.  Removed all items older than 2015-01-29 14:50:26
+2015-03-30 14:50:26,032 [116] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 93] Application shutdown. Reason: CodeDirChangeOrDirectoryRename
+2015-03-30 15:00:02,911 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Determining hash of code files on disk
+2015-03-30 15:00:02,921 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Hash determined (took 6ms)
+2015-03-30 15:00:02,933 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-03-30 15:00:03,170 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 35 (took 236ms)
+2015-03-30 15:00:03,228 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-03-30 15:00:03,236 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 7ms)
+2015-03-30 15:00:03,236 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-03-30 15:00:03,247 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 10ms)
+2015-03-30 15:00:03,260 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-03-30 15:00:03,268 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 5 (took 8ms)
+2015-03-30 15:00:03,268 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-03-30 15:00:03,275 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 30 (took 7ms)
+2015-03-30 15:00:03,306 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-03-30 15:00:03,315 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 9ms)
+2015-03-30 15:00:03,315 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-03-30 15:00:03,323 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 7ms)
+2015-03-30 15:00:03,803 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Starting resolution types of umbraco.interfaces.IApplication
+2015-03-30 15:00:03,814 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 10ms)
+2015-03-30 15:00:03,842 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-03-30 15:00:03,849 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 7ms)
+2015-03-30 15:00:03,856 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Starting resolution types of umbraco.interfaces.ITree
+2015-03-30 15:00:03,865 [66] INFO  Umbraco.Core.PluginManager - [Thread 78] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 8ms)
+2015-03-30 15:00:03,876 [66] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 78] Initializing Examine and binding to business logic events
+2015-03-30 15:00:04,030 [66] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 78] Adding examine event handlers for index providers: 3
+2015-03-30 15:00:04,231 [66] INFO  Umbraco.Web.UmbracoModule - [Thread 54] Setting OriginalRequestUrl: localhost:60166/umbraco
+2015-03-30 15:00:04,270 [66] INFO  umbraco.content - [Thread 54] Loading content from disk cache...
+2015-03-30 15:00:04,362 [66] INFO  Umbraco.Core.PluginManager - [Thread 54] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-03-30 15:00:04,373 [66] INFO  Umbraco.Core.PluginManager - [Thread 54] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 22 (took 10ms)
+2015-03-30 15:00:04,569 [66] INFO  Umbraco.Core.PluginManager - [Thread 54] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-03-30 15:00:04,588 [66] INFO  Umbraco.Core.PluginManager - [Thread 54] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 43 (took 19ms)
+2015-03-30 15:00:24,106 [66] INFO  Umbraco.Core.Persistence.UmbracoDatabase - [Thread 54]    at System.Data.SqlServerCe.SqlCeCommand.FillParameterDataBindings(Boolean verifyValue)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery()
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Insert(String tableName, String primaryKeyName, Boolean autoIncrement, Object poco)
+2015-03-30 15:00:24,108 [66] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 54] An unhandled exception occurred
+System.FormatException: @0 : Derek - Input string was not in a correct format.
+   at System.Data.SqlServerCe.SqlCeCommand.FillParameterDataBindings(Boolean verifyValue)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery()
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Insert(String tableName, String primaryKeyName, Boolean autoIncrement, Object poco)
+   at Umbraco.Core.Persistence.Database.Insert(Object poco)
+   at FormSurfaceController.persistData(FormModel model) in c:\Users\palepail\Documents\My Web Sites\UmbracoContact\App_Code\Controllers\FormSurfaceController.cs:line 48
+   at FormSurfaceController.SaveForm(FormModel model) in c:\Users\palepail\Documents\My Web Sites\UmbracoContact\App_Code\Controllers\FormSurfaceController.cs:line 25
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2015-03-30 15:01:04,442 [66] INFO  umbraco.BusinessLogic.Log - [Thread 56] Log scrubbed.  Removed all items older than 2015-01-29 15:01:04
+2015-03-30 15:01:04,444 [66] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 56] Application shutdown. Reason: CodeDirChangeOrDirectoryRename
+2015-03-30 15:01:07,902 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Determining hash of code files on disk
+2015-03-30 15:01:07,917 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Hash determined (took 10ms)
+2015-03-30 15:01:07,932 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-03-30 15:01:08,169 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 35 (took 235ms)
+2015-03-30 15:01:08,224 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-03-30 15:01:08,227 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 3ms)
+2015-03-30 15:01:08,228 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-03-30 15:01:08,238 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 9ms)
+2015-03-30 15:01:08,252 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-03-30 15:01:08,262 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 5 (took 9ms)
+2015-03-30 15:01:08,262 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-03-30 15:01:08,271 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 30 (took 9ms)
+2015-03-30 15:01:08,304 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-03-30 15:01:08,312 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 8ms)
+2015-03-30 15:01:08,312 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-03-30 15:01:08,320 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 7ms)
+2015-03-30 15:01:08,799 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of umbraco.interfaces.IApplication
+2015-03-30 15:01:08,811 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 11ms)
+2015-03-30 15:01:08,846 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-03-30 15:01:08,853 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 7ms)
+2015-03-30 15:01:08,859 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of umbraco.interfaces.ITree
+2015-03-30 15:01:08,871 [47] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 11ms)
+2015-03-30 15:01:08,880 [47] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 65] Initializing Examine and binding to business logic events
+2015-03-30 15:01:09,019 [47] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 65] Adding examine event handlers for index providers: 3
+2015-03-30 15:01:09,185 [47] INFO  Umbraco.Web.UmbracoModule - [Thread 70] Setting OriginalRequestUrl: localhost:60166/umbraco
+2015-03-30 15:01:09,225 [47] INFO  umbraco.content - [Thread 70] Loading content from disk cache...
+2015-03-30 15:01:09,307 [47] INFO  Umbraco.Core.PluginManager - [Thread 70] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-03-30 15:01:09,317 [47] INFO  Umbraco.Core.PluginManager - [Thread 70] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 22 (took 9ms)
+2015-03-30 15:01:09,525 [47] INFO  Umbraco.Core.PluginManager - [Thread 70] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-03-30 15:01:09,545 [47] INFO  Umbraco.Core.PluginManager - [Thread 70] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 43 (took 19ms)
+2015-03-30 15:01:26,023 [47] INFO  Umbraco.Core.Persistence.UmbracoDatabase - [Thread 54]    at System.Data.SqlServerCe.SqlCeCommand.FillParameterDataBindings(Boolean verifyValue)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery()
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Insert(String tableName, String primaryKeyName, Boolean autoIncrement, Object poco)
+2015-03-30 15:01:26,023 [47] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 54] An unhandled exception occurred
+System.FormatException: @0 : Derek - Input string was not in a correct format.
+   at System.Data.SqlServerCe.SqlCeCommand.FillParameterDataBindings(Boolean verifyValue)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery()
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Insert(String tableName, String primaryKeyName, Boolean autoIncrement, Object poco)
+   at Umbraco.Core.Persistence.Database.Insert(Object poco)
+   at FormSurfaceController.persistData(FormModel model) in c:\Users\palepail\Documents\My Web Sites\UmbracoContact\App_Code\Controllers\FormSurfaceController.cs:line 48
+   at FormSurfaceController.SaveForm(FormModel model) in c:\Users\palepail\Documents\My Web Sites\UmbracoContact\App_Code\Controllers\FormSurfaceController.cs:line 25
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2015-03-30 15:02:25,410 [47] INFO  umbraco.BusinessLogic.Log - [Thread 79] Log scrubbed.  Removed all items older than 2015-01-29 15:02:25
+2015-03-30 15:02:25,412 [47] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 79] Application shutdown. Reason: CodeDirChangeOrDirectoryRename
+2015-03-30 15:02:28,729 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Determining hash of code files on disk
+2015-03-30 15:02:28,742 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Hash determined (took 8ms)
+2015-03-30 15:02:28,755 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-03-30 15:02:29,011 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 35 (took 254ms)
+2015-03-30 15:02:29,141 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-03-30 15:02:29,145 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 4ms)
+2015-03-30 15:02:29,145 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-03-30 15:02:29,154 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 8ms)
+2015-03-30 15:02:29,166 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-03-30 15:02:29,174 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 5 (took 7ms)
+2015-03-30 15:02:29,174 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-03-30 15:02:29,182 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 30 (took 7ms)
+2015-03-30 15:02:29,215 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-03-30 15:02:29,224 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 9ms)
+2015-03-30 15:02:29,225 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-03-30 15:02:29,234 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 9ms)
+2015-03-30 15:02:29,751 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of Umbraco.Web.Trees.TreeController
+2015-03-30 15:02:29,759 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 8ms)
+2015-03-30 15:02:29,769 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of umbraco.interfaces.ITree
+2015-03-30 15:02:29,777 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 7ms)
+2015-03-30 15:02:29,787 [57] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 65] Initializing Examine and binding to business logic events
+2015-03-30 15:02:29,939 [57] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 65] Adding examine event handlers for index providers: 3
+2015-03-30 15:02:29,943 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Starting resolution types of umbraco.interfaces.IApplication
+2015-03-30 15:02:29,964 [57] INFO  Umbraco.Core.PluginManager - [Thread 65] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 20ms)
+2015-03-30 15:02:30,200 [57] INFO  Umbraco.Web.UmbracoModule - [Thread 70] Setting OriginalRequestUrl: localhost:60166/umbraco
+2015-03-30 15:02:30,242 [57] INFO  umbraco.content - [Thread 70] Loading content from disk cache...
+2015-03-30 15:02:30,330 [57] INFO  Umbraco.Core.PluginManager - [Thread 70] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2015-03-30 15:02:30,339 [57] INFO  Umbraco.Core.PluginManager - [Thread 70] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 22 (took 8ms)
+2015-03-30 15:02:30,542 [57] INFO  Umbraco.Core.PluginManager - [Thread 70] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2015-03-30 15:02:30,559 [57] INFO  Umbraco.Core.PluginManager - [Thread 70] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 43 (took 16ms)
+2015-03-30 15:02:48,846 [57] INFO  Umbraco.Core.Persistence.UmbracoDatabase - [Thread 48]    at System.Data.SqlServerCe.SqlCeCommand.FillParameterDataBindings(Boolean verifyValue)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery()
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Insert(String tableName, String primaryKeyName, Boolean autoIncrement, Object poco)
+2015-03-30 15:02:48,847 [57] ERROR Umbraco.Core.UmbracoApplicationBase - [Thread 48] An unhandled exception occurred
+System.FormatException: @0 : Derek - Input string was not in a correct format.
+   at System.Data.SqlServerCe.SqlCeCommand.FillParameterDataBindings(Boolean verifyValue)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery()
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Insert(String tableName, String primaryKeyName, Boolean autoIncrement, Object poco)
+   at Umbraco.Core.Persistence.Database.Insert(Object poco)
+   at FormSurfaceController.persistData(FormModel model) in c:\Users\palepail\Documents\My Web Sites\UmbracoContact\App_Code\Controllers\FormSurfaceController.cs:line 48
+   at FormSurfaceController.SaveForm(FormModel model) in c:\Users\palepail\Documents\My Web Sites\UmbracoContact\App_Code\Controllers\FormSurfaceController.cs:line 25
+   at lambda_method(Closure , ControllerBase , Object[] )
+   at System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   at System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2015-03-30 15:04:02,202 [57] INFO  Umbraco.Core.Persistence.Database - [Thread 60] Create Table sql -1:
+ CREATE TABLE [Forms] ([ID] INTEGER NOT NULL IDENTITY(1,1),
+[FIRST_NAME] NVARCHAR(255) NOT NULL,
+[LAST_NAME] NVARCHAR(255) NOT NULL,
+[EMAIL] NVARCHAR(255) NOT NULL)
+2015-03-30 15:04:02,204 [57] INFO  Umbraco.Core.Persistence.Database - [Thread 60] Primary Key sql -1:
+ ALTER TABLE [Forms] ADD CONSTRAINT [PK_Forms] PRIMARY KEY ([ID])
+2015-03-30 15:04:02,205 [57] INFO  Umbraco.Core.Persistence.Database - [Thread 60] New table 'Forms' was created

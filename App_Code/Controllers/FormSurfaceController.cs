@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Web;
 using System.Web.Mvc;
 using Umbraco.Web.Mvc;
+using Umbraco.Core.Persistence;
+
 
 /// <summary>
-/// Summary description for FormController
+/// FormController
 /// </summary>
 
 public class FormSurfaceController : SurfaceController
@@ -15,15 +17,34 @@ public class FormSurfaceController : SurfaceController
     {    
  
         if (!ModelState.IsValid)
-        {
-  
+            {
             return CurrentUmbracoPage();
-        }
+            }
 
-       ApplicationContext.DatabaseContext.Database.Save(new Movie());
-        ViewBag.Result = "User Info Saved";
-        
+
+        persistData(model);
+       
         return RedirectToCurrentUmbracoPage();
 
+    }
+
+    //DAO would be in a seperate file normally
+    private void persistData(FormModel model){
+        var db = ApplicationContext.DatabaseContext.Database;
+        if (!db.TableExist("Forms"))
+            {
+                db.CreateTable<FormPoco>(false);
+            }
+
+     
+     
+        FormPoco poco = new FormPoco(); 
+      
+
+        poco.email = model.Email;
+        poco.firstName = model.FirstName;
+        poco.lastName = model.LastName;
+
+        db.Insert(poco);
     }
 }

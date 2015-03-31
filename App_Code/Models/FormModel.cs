@@ -3,22 +3,19 @@ using System.Collections.Generic;
 using System.Web;
 using System.ComponentModel.DataAnnotations;
 
+/// <summary>
+/// FormDTO
+/// </summary>
 
 public class FormModel
 {
-    public FormModel(){
-        
-    }
-
-    public int id { get; set; }
+    [Required]
+    public String FirstName { get; set; }
 
     [Required]
-    public string FirstName { get; set; }
-
-    [Required]
-    public string LastName { get; set; }
+    public String LastName { get; set; }
 
     [Required]
     [EmailAddress]
-    public string Email { get; set; }
+    public String Email { get; set; }
 }
